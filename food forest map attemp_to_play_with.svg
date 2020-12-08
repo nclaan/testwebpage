@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.341042in"
+   height="23.936573in"
+   viewBox="0 0 1470.6937 2154.2916"
+   id="svg4283"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="food forest map attemp_to_play_with.svg">
+  <defs
+     id="defs4285" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-485.96289"
+     inkscape:cy="1302.3954"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="in"
+     width="9.5in"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4288">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="garden outline"
+     style="display:inline"
+     transform="translate(159.7514,79.533855)">
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 182.85714,46.647919 751.42857,-20 -465.71428,314.285711 z"
+       id="path4952"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1080,480.93363 51.4286,1402.85717 -242.85717,8.5714 -14.28572,-602.8571 -8.57142,-197.1429 0,-34.2857 -48.57143,-128.57144 -65.71429,-174.28571 -8.57143,-20 z"
+       id="path4954"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="path"
+     style="display:inline"
+     transform="translate(159.7514,79.533855)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.69999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 531.42857,486.64792 782.85714,315.21935 c 0,0 11.42857,-25.71429 422.85716,-391.428574 105.7143,120 102.8571,120 102.8571,120 L 1020,280.93363 931.42857,386.64792 797.14286,492.3622 600,618.07649 c 0,0 -5.71429,-2.85714 -5.71429,-2.85714 l -48.57142,65.71428 0,0 0,77.14286 40,65.71429 65.71428,171.42857 31.42857,108.57145 40,200 5.71429,82.8571 5.71428,125.7143 5.71429,171.4286 11.42857,197.1428 2.85714,191.4286 -151.42857,-2.8571 2.85715,-331.4286 L 580,1469.5051 l -11.42857,-145.7143 -31.42857,-140 -68.57143,-245.71431 -77.14286,-148.57143 -108.57143,-185.71428 -100,-125.71429 -125.714283,-125.71429 -140,-102.85714 L -145.71429,206.64792 -157.14286,29.505062 -60,78.07649 71.428571,175.21935 208.57143,289.50506 314.28571,412.3622 l 60,71.42858 37.14286,25.71428 82.85714,8.57143 z"
+       id="path4389"
+       inkscape:connector-curvature="0" />
+  </g>
+<!-- set up the colour change hover over for the trees -->
+
+  <style>
+    .tree {
+    fill:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none
+   }
+    .tree-highlight {
+        fill: #ec008c;
+        opacity: 1;
+   }
+#tooltip {
+			dominant-baseline: hanging; 
+		}
+  </style>
+<!-- tree layer-->
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Trees"
+     style="display:inline"
+     transform="translate(159.7514,79.533855)">
+    <ellipse 
+       class="tree" 
+       id="path4960"
+       cx="532.85712"
+       cy="148.07649"
+       rx="55.714287"
+       ry="47.142857" />
+    <ellipse
+       class="tree" 
+       id="path4962"
+       cx="967.14288"
+       cy="725.21936"
+       rx="61.42857"
+       ry="64.285713" />
+    <ellipse
+       class="tree"
+       id="path4964"
+       cx="927.14288"
+       cy="1190.9336"
+       rx="50"
+       ry="41.42857" />
+    <text class="label" id="tree-name" x="0" y="0">.</text>
+  </g>
+      <g id="tooltip" visibility="hidden" >
+		<rect x="2" y="2" width="80" height="24" fill="black" opacity="0.4" rx="2" ry="2"/>
+		<rect width="80" height="24" fill="white" rx="2" ry="2"/>
+		<text x="4" y="6">Tooltip</text>
+	</g>
+
+<!--javascript code to do the highlighting-->
+<!-- examples for this code come from https://www.petercollingridge.co.uk/tutorials/svg/interactive/interactive-map/-->
+
+  <script><![CDATA[
+//    var svg = document.getElementById('svg4283');//this id number might be quite important
+//    var trees = svg.getElementsByClassName('tree');
+//    for (var i = 0; i < trees.length; i++) {
+//      trees[i].addEventListener('mousemove', mouseMoveEffect);
+//      trees[i].addEventListener('mouseout', mouseOutEffect);
+//    }
+//
+//
+//    var tooltip = svg.getElementById('tooltip');
+//    
+//
+//    function mouseMoveEffect() {
+//      this.classList.add("tree-highlight");
+//      document.getElementById('tree-name').firstChild.data = this.id;
+//
+//    function mouseOutEffect() {
+//      this.classList.remove("tree-highlight");
+//      document.getElementById('tree-name').firstChild.data = "";
+//    }
+//
+//    
+]]></script>
+
+<script type="text/ecmascript"><![CDATA[
+		(function() {
+			var svg = document.getElementById('svg4283');
+			var tooltip = svg.getElementById('tooltip');
+			var tooltipText = tooltip.getElementsByTagName('text')[0];
+			var tooltipRects = tooltip.getElementsByTagName('rect');
+			var trees = svg.getElementsByClassName('tree');
+			for (var i = 0; i < trees.length; i++) {
+				trees[i].addEventListener('mousemove', mouseMove);
+				trees[i].addEventListener('mouseout', mouseOutEffect);
+			}
+			function mouseMove(evt) {
+                this.classList.add("tree-highlight");
+				var CTM = svg.getScreenCTM();
+				var x = (evt.clientX - CTM.e + 6) / CTM.a;
+				var y = (evt.clientY - CTM.f + 20) / CTM.d;
+                //var x = (evt.clientX );
+				//var y = (evt.clientY );
+				tooltip.setAttributeNS(null, "transform", "translate(" + x + " " + y + ")");
+				tooltip.setAttributeNS(null, "visibility", "visible");
+				tooltipText.firstChild.data = evt.target.getAttributeNS(null, "id");
+				var length = tooltipText.getComputedTextLength();
+				for (var i = 0; i < tooltipRects.length; i++) {
+					tooltipRects[i].setAttributeNS(null, "width", length + 8);
+				}
+			}
+			function mouseOutEffect(evt) {
+                this.classList.remove("tree-highlight");
+				tooltip.setAttributeNS(null, "visibility", "hidden");
+			}
+		})()
+    ]]></script>
+</svg>
